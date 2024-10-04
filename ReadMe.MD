@@ -1,0 +1,1 @@
+This project uses llama index to build a chatbox dedicated to Electron Energy-Loss Spectroscopy in the Electron Microscope by Ray Egerton
